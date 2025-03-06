@@ -32,21 +32,21 @@
     "href": "Labs.html",
     "title": "Vigilancia Entomológica de Oropouche",
     "section": "",
-    "text": "Que el personal de vectores desarrolle las competencias específicas para instalar paquetes desde CRAN, GitHub o archivos binarios.\n\n\n\nInstalar los siguientes paquete desde CRAN\n\ntidyverse\neasystats\ntidymodels\ndata.table\nreactable\n\nInstalar los siguientes paquete desde GitHub\n\nKrigR"
+    "text": "Que el personal de vectores y las unidades de bioensayo desarrollen las competencias específicas para identificar en un alcohol con ayuda de un microscopio estereoscopio los ejemplares de la familia Culicidae, Simuliidae, Psychodidae & Ceratopogonidae."
   },
   {
     "objectID": "Labs.html#laboratorio-de-la-unidad-i",
     "href": "Labs.html#laboratorio-de-la-unidad-i",
     "title": "Vigilancia Entomológica de Oropouche",
     "section": "",
-    "text": "Que el personal de vectores desarrolle las competencias específicas para instalar paquetes desde CRAN, GitHub o archivos binarios.\n\n\n\nInstalar los siguientes paquete desde CRAN\n\ntidyverse\neasystats\ntidymodels\ndata.table\nreactable\n\nInstalar los siguientes paquete desde GitHub\n\nKrigR"
+    "text": "Que el personal de vectores y las unidades de bioensayo desarrollen las competencias específicas para identificar en un alcohol con ayuda de un microscopio estereoscopio los ejemplares de la familia Culicidae, Simuliidae, Psychodidae & Ceratopogonidae."
   },
   {
     "objectID": "Labs.html#laboratorio-de-la-unidad-ii",
     "href": "Labs.html#laboratorio-de-la-unidad-ii",
     "title": "Vigilancia Entomológica de Oropouche",
     "section": "Laboratorio de la Unidad II",
-    "text": "Laboratorio de la Unidad II\n\nObjetivo.\nQue el personal de vectores desarrolle las competencias específicas para realizar la geocodificación y el análisis hotspot en las localidades prioritarias del estado correspondiente.\n\n\nActividad 1\n\nBajar la carpeta geocodificación de GitHub.\nGeocodificar las bases de datos históricas del SINAVE.\n\n\n\nActividad 2\n\nBajar la carpeta hotspots_cases de GitHub.\nRealizar el análisis hotspots en la o las localidades prioritarias del estado de procedencia del personal que asiste al curso.\nElaborar los mapas estáticos e interactivos"
+    "text": "Laboratorio de la Unidad II\n\nObjetivo.\n\nQue el personal de vectores y las unidades de bioensayo desarrollen las competencias específicas separar el material colectado con las trampas utilizadas en la práctica de campo.\nQue el personal de vectores y las unidades de bioensayo embale correctamente el material biologico para envio al LESP o al INDRE,"
   },
   {
     "objectID": "Labs.html#laboratorio-de-la-unidad-iii",
@@ -72,9 +72,9 @@
   {
     "objectID": "links.html",
     "href": "links.html",
-    "title": "Geocomputacion with R",
+    "title": "Manual of Central American Diptera I",
     "section": "",
-    "text": "Geocomputacion with R\n\n\n\n\nGeocomputacion with Python\n\n\n\n\nGeocomputacion with Julia\n\n\n\n\nSpatial Data Science in R\n\n\n\n\nSpatial, Temporal and Spatial-Temporal Ecological Data Analysis with R\n\n\n\n\nSpatial, Temporal and Spatio-temporal Bayesian Models with R-INLA\n\n\n\n\nDynamic Time Series Models R INLA\n\n\n\n\nSpatial Statistics For Data Science\n\n\n\n\nGeospatial Health Data. Mododeling and Visualization with R-INLA and Shiny\n\n\n\n\nGeographic Data Science With R\n\n\n\n\nAdvanced Spaatial Modeling With Stochastic Partial Differential Equations Using R and INLA"
+    "text": "Manual of Central American Diptera I\n\n\n\n\nManual of Central American Diptera II"
   },
   {
     "objectID": "contacto.html",
