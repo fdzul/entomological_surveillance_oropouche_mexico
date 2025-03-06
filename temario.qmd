@@ -4,10 +4,9 @@ format: html
 editor: visual
 ---
 
-
 ## Temario
 
-### Módulo I. Dipteros Nematoceros de Importancia Médica
+### Módulo I. Dípteros Nematóceros de Importancia Médica
 
 ```{r temario_modulo_1, echo=FALSE}
 tibble::tibble(Tema = c("Artrópodos & Dípteros Nematóceros de Importancia Médica",
@@ -31,7 +30,6 @@ tibble::tibble(Tema = c("Artrópodos & Dípteros Nematóceros de Importancia Mé
                          wrap = FALSE, 
                          bordered = TRUE)
 ```
-
 
 ### Módulo II. Métodos de Colecta Para la Vigilancia Entomológica de Oropouche
 
@@ -60,12 +58,11 @@ tibble::tibble(Tema = c("Trampas CDC Luz Blanca",
                          bordered = TRUE)
 ```
 
-
 ### Modulo III. Práctica de Laboratorio I
 
 ### Modulo IV. Distribución de Equipo de Colecta
 
-### Modulo V. Colecta de Campo 
+### Modulo V. Colecta de Campo
 
 ### Modulo VI. Práctica de Laboratorio II.
 
@@ -85,7 +82,6 @@ tibble::tibble(Tema = c("Separación de Material",
 ```
 
 ### Modulo VII. Lineamientos de la Vigilancia Entomológica de Oropouche
-
 
 ```{r temario_modulo_7, echo=FALSE}
 tibble::tibble(Tema = c("Distribución Potencial de Culicoides paraensis",
@@ -109,6 +105,3 @@ tibble::tibble(Tema = c("Distribución Potencial de Culicoides paraensis",
                          wrap = FALSE, 
                          bordered = TRUE)
 ```
-
-
-
