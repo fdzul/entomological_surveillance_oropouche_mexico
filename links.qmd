@@ -5,15 +5,20 @@ editor:
     wrap: 72
 ---
 
+# Claves fotográficas de identificación de *Culicoides* de México.
+
+[![](imagenes/heron.png)](https://mapress.com/zt/article/view/zootaxa.5566.1.1)
+
+------------------------------------------------------------------------
+
 # Manual of Central American Diptera I
 
 [![](https://cdnsciencepub.com/cms/10.1139/9780660198330/asset/14b3bab1-2714-3bab-1271-b3bab112714b/9780660198330.cover.jpg)](https://cdnsciencepub.com/doi/book/10.1139/9780660198330)
 
-----
+------------------------------------------------------------------------
 
 # Manual of Central American Diptera II
 
 [![](https://cdnsciencepub.com/cms/10.1139/9780660199580/asset/14b5a57c-4514-5a57-6451-b5a57c64514b/9780660199580.cover.jpg)](https://cdnsciencepub.com/doi/10.1139/9780660199580#core-collateral-purchase-access)
 
-----
-
+------------------------------------------------------------------------

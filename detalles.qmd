@@ -4,4 +4,48 @@ format: html
 editor: visual
 ---
 
-#E detalles
+## Formato del Curso
+
+Curso presencial intensivo de dos diás durante la *Capacitación de las Unidades de Bieoensayo e Investigación Entomológica (UBIEs)*.
+
+
+## Sede
+
+Cuernavaca, Morelos.
+
+## Fecha
+
+21 al 25 de Abril del 2025
+
+
+## Requisitos de conceptos teóricos
+
+Es ideal tener conocimientos de los conceptos sobre los artrópodos, y las familias de dípteros nematóceros con importancia médica, pero no es necesario.
+
+
+## Requisitos generales
+
+1. Llevar material entomológico de campo (tubo de castro, tubo letal, lapiz, sacapuntas, etc).
+
+2. Ropa de campo.
+
+3. Cloroformo. 
+
+4. Trampas (Trampa CDCs, Trampa Shannon, Aspiradores)
+
+## Inscripción al curso
+
+Las inscripciones estarán abiertas tan pronto como el Director & Subdiretor de Vectores del CENAPRECE autorize las unidades didácticas del curso. El link para la inscripción la encontrarán en este apartado.
+
+[Inscripción]()
+
+
+## Examen
+
+Se realizá un examen previo y posterior al curso. El examen previo se realizá posterior al pase de lista en en salón y el examen posterior se realizará al finalizar el curso.
+
+[Examen Previo]()
+
+[Examen Posterior]()
+
+Los examenes constituyen una herramienta exploratoria para diagnósticar el conocimiento previo de la audiencia que asistirá al curso titulado **Vigilancia Entomologica de Oropouche** que sera ofertado en la capacitación de las Unidades de Bieoensayo e Investigación Entomológica (UBIEs). En este sentido, la respuesta y la calificación proporcionará a los organizadores los elementos estratégicos para enfocar o dirigir los conceptos teóricos para maximizar el desarrollo de las competencias en los asistentes y cumplir con el objetivo del curso, por lo que agradecemos que sean lo más honesto posible en sus respuesta.
