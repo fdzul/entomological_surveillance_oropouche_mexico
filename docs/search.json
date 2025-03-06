@@ -26,5 +26,54 @@
     "title": "Vigilancia Entomológica de Oropouche",
     "section": "",
     "text": "tibble::tibble(Tema = c(\"Artropodos & Dípteros Nematoceros de Importancia Médica\"),\n               Docente = c(\"Felipe A. Dzul Manzanilla & Herón Huerta\")) |&gt;\n    reactable::reactable(defaultPageSize = 10,\n                         theme = reactablefmtr::flatly(),\n                         filterable = FALSE,\n                         striped = TRUE,\n                         minRows = 10,\n                         resizable = TRUE, \n                         wrap = FALSE, \n                         bordered = TRUE)"
+  },
+  {
+    "objectID": "Labs.html",
+    "href": "Labs.html",
+    "title": "Vigilancia Entomológica de Oropouche",
+    "section": "",
+    "text": "Que el personal de vectores desarrolle las competencias específicas para instalar paquetes desde CRAN, GitHub o archivos binarios.\n\n\n\nInstalar los siguientes paquete desde CRAN\n\ntidyverse\neasystats\ntidymodels\ndata.table\nreactable\n\nInstalar los siguientes paquete desde GitHub\n\nKrigR"
+  },
+  {
+    "objectID": "Labs.html#laboratorio-de-la-unidad-i",
+    "href": "Labs.html#laboratorio-de-la-unidad-i",
+    "title": "Vigilancia Entomológica de Oropouche",
+    "section": "",
+    "text": "Que el personal de vectores desarrolle las competencias específicas para instalar paquetes desde CRAN, GitHub o archivos binarios.\n\n\n\nInstalar los siguientes paquete desde CRAN\n\ntidyverse\neasystats\ntidymodels\ndata.table\nreactable\n\nInstalar los siguientes paquete desde GitHub\n\nKrigR"
+  },
+  {
+    "objectID": "Labs.html#laboratorio-de-la-unidad-ii",
+    "href": "Labs.html#laboratorio-de-la-unidad-ii",
+    "title": "Vigilancia Entomológica de Oropouche",
+    "section": "Laboratorio de la Unidad II",
+    "text": "Laboratorio de la Unidad II\n\nObjetivo.\nQue el personal de vectores desarrolle las competencias específicas para realizar la geocodificación y el análisis hotspot en las localidades prioritarias del estado correspondiente.\n\n\nActividad 1\n\nBajar la carpeta geocodificación de GitHub.\nGeocodificar las bases de datos históricas del SINAVE.\n\n\n\nActividad 2\n\nBajar la carpeta hotspots_cases de GitHub.\nRealizar el análisis hotspots en la o las localidades prioritarias del estado de procedencia del personal que asiste al curso.\nElaborar los mapas estáticos e interactivos"
+  },
+  {
+    "objectID": "Labs.html#laboratorio-de-la-unidad-iii",
+    "href": "Labs.html#laboratorio-de-la-unidad-iii",
+    "title": "Vigilancia Entomológica de Oropouche",
+    "section": "Laboratorio de la Unidad III",
+    "text": "Laboratorio de la Unidad III\n\nObjetivo.\nQue el personal de vectores desarrolle las competencias específicas para realizar realizar la predicción de huevos usando el análisis geoestadístico con SPDE-INLA.\n\n\nActividad 2\n\nBajar las bases de datos históricas de las lecturas de ovitrampas del 2014 al 2019\nBajar las bases de datos de lecturas de ovitrampas del año en curso hasta el mes que se esta realizando el curso.\n\n\n\nActividad 2\n\nBajar la carpeta hotspots_vector de GitHub.\nRealizar la predicción del número de huevos en la o las localidades prioritarias del estado de procedencia del personal que asiste al curso.\nVisualizar los mapas predictivos."
+  },
+  {
+    "objectID": "Labs.html#laboratorio-de-la-unidad-iv",
+    "href": "Labs.html#laboratorio-de-la-unidad-iv",
+    "title": "Vigilancia Entomológica de Oropouche",
+    "section": "Laboratorio de la Unidad IV",
+    "text": "Laboratorio de la Unidad IV"
+  },
+  {
+    "objectID": "Labs.html#laboratorio-de-la-unidad-v",
+    "href": "Labs.html#laboratorio-de-la-unidad-v",
+    "title": "Vigilancia Entomológica de Oropouche",
+    "section": "Laboratorio de la Unidad V",
+    "text": "Laboratorio de la Unidad V"
+  },
+  {
+    "objectID": "links.html",
+    "href": "links.html",
+    "title": "Geocomputacion with R",
+    "section": "",
+    "text": "Geocomputacion with R\n\n\n\n\nGeocomputacion with Python\n\n\n\n\nGeocomputacion with Julia\n\n\n\n\nSpatial Data Science in R\n\n\n\n\nSpatial, Temporal and Spatial-Temporal Ecological Data Analysis with R\n\n\n\n\nSpatial, Temporal and Spatio-temporal Bayesian Models with R-INLA\n\n\n\n\nDynamic Time Series Models R INLA\n\n\n\n\nSpatial Statistics For Data Science\n\n\n\n\nGeospatial Health Data. Mododeling and Visualization with R-INLA and Shiny\n\n\n\n\nGeographic Data Science With R\n\n\n\n\nAdvanced Spaatial Modeling With Stochastic Partial Differential Equations Using R and INLA"
   }
 ]
