@@ -1,0 +1,22 @@
+---
+title: ""
+---
+
+![](imagenes/logo_course.jpeg)
+
+# **Objetivo General**
+
+El curso títulado **Vigilancia Entomológica de Oropouche en México** tiene como objetivo central desarrollar las competencias específicas para que el personal del componente de vigilancia entomológica de prevención y control de las arbovirosis y el personal de las unidades de bioensayos e investigacion entomológica de las Secretarias de Salud de los estados collecten e identifiquen especímenes de la familia Ceratopogonidae con enfasis en el genero *Culicoides* y  en general dipteros nematoceros de importancia médica.
+
+# **Objetivos Específicos**
+
+1. Identificar las características morfológicas y taxonómicas de la familia Culicoides y el resto de la familias de dipteros nematoceros de importancia médica.
+
+2. Conocer los métodos de colecta para la vigilancia entomológica de Oropouche.
+
+3. Conocer los lineamientos vigilancia entomológica de Oropouche.
+
+
+# Audiencia
+
+El curso de **Vigilancia Entomológica de Oropouche en México** esta complementado con el  [Manual de Vigilancia Entomológica y Generalidades de los Vectores del Virus Oropouche (OROV)](https://www.gob.mx/cms/uploads/attachment/file/968097/Manual_de_Vig_Entomologia_y_Vectores_de_Oropouche_en_Me_xico_VF1.docx.pdf). Tanto los cursos y el manual, no solo está dirigido al personal operativo, mandos medios y directivos de los Programas de Prevención y Control de las arbovirosis transmitidas por *Aedes* de la Secretaría de Salud de México, sino también a la comunidad académica relacionada con la investigación operativa sobre la vigilancia entomologica de Oropouche y al público en general interesado en el tema.

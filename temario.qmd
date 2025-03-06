@@ -1,0 +1,114 @@
+---
+title: ""
+format: html
+editor: visual
+---
+
+
+## Temario
+
+### Módulo I. Dipteros Nematoceros de Importancia Médica
+
+```{r temario_modulo_1, echo=FALSE}
+tibble::tibble(Tema = c("Artrópodos & Dípteros Nematóceros de Importancia Médica",
+                        "Familia Culicidae",
+                        "Familia Simuliidae",
+                        "Familia Psychodidae",
+                        "Familia Ceratopogonidae",
+                        "Otras Familias de Dipteros Nematóceros"),
+               Docente = c("Felipe A. Dzul Manzanilla & Herón Huerta",
+                           "Felipe A. Dzul Manzanilla & Herón Huerta",
+                           "Felipe A. Dzul Manzanilla & Herón Huerta",
+                           "Felipe A. Dzul Manzanilla & Herón Huerta",
+                           "Felipe A. Dzul Manzanilla & Herón Huerta",
+                           "Felipe A. Dzul Manzanilla & Herón Huerta")) |>
+    reactable::reactable(defaultPageSize = 6,
+                         theme = reactablefmtr::flatly(),
+                         filterable = FALSE,
+                         striped = TRUE,
+                         minRows = 6,
+                         resizable = TRUE, 
+                         wrap = FALSE, 
+                         bordered = TRUE)
+```
+
+
+### Módulo II. Métodos de Colecta Para la Vigilancia Entomológica de Oropouche
+
+```{r temario_modulo_2, echo=FALSE}
+tibble::tibble(Tema = c("Trampas CDC Luz Blanca",
+                        "Trampas CDC Luz Negra",
+                        "Trampa Shannon",
+                        "BG Sentinel",
+                        "Circle Trap",
+                        "Trampa Malaise",
+                        "Aspiradores Trampas Entozuka y Prokopack"),
+               Docente = c("Felipe A. Dzul Manzanilla & Herón Huerta",
+                           "Felipe A. Dzul Manzanilla & Herón Huerta",
+                           "Felipe A. Dzul Manzanilla & Herón Huerta",
+                           "Felipe A. Dzul Manzanilla & Herón Huerta",
+                           "Felipe A. Dzul Manzanilla & Herón Huerta",
+                           "Felipe A. Dzul Manzanilla & Herón Huerta",
+                           "Felipe A. Dzul Manzanilla & Herón Huerta")) |>
+    reactable::reactable(defaultPageSize = 8,
+                         theme = reactablefmtr::flatly(),
+                         filterable = FALSE,
+                         striped = TRUE,
+                         minRows = 8,
+                         resizable = TRUE, 
+                         wrap = FALSE, 
+                         bordered = TRUE)
+```
+
+
+### Modulo III. Práctica de Laboratorio I
+
+### Modulo IV. Distribución de Equipo de Colecta
+
+### Modulo V. Colecta de Campo 
+
+### Modulo VI. Práctica de Laboratorio II.
+
+```{r temario_modulo_6, echo=FALSE}
+tibble::tibble(Tema = c("Separación de Material",
+                        "Embalaje de las Muestras"),
+               Docente = c("Felipe A. Dzul Manzanilla & Herón Huerta",
+                           "Felipe A. Dzul Manzanilla & Herón Huerta")) |>
+    reactable::reactable(defaultPageSize = 3,
+                         theme = reactablefmtr::flatly(),
+                         filterable = FALSE,
+                         striped = TRUE,
+                         minRows = 3,
+                         resizable = TRUE, 
+                         wrap = FALSE, 
+                         bordered = TRUE)
+```
+
+### Modulo VII. Lineamientos de la Vigilancia Entomológica de Oropouche
+
+
+```{r temario_modulo_7, echo=FALSE}
+tibble::tibble(Tema = c("Distribución Potencial de Culicoides paraensis",
+                        "Objetivo de la Vigilancia Entomológica de Oropouche",
+                        "Sitios de Estudio por Estado",
+                        "Número de CDCs por sitio",
+                        "Frecuencia de los estudios entomológicos",
+                        "Reporte y base de datos"),
+               Docente = c("Felipe A. Dzul Manzanilla & Herón Huerta",
+                           "Felipe A. Dzul Manzanilla & Herón Huerta",
+                           "Felipe A. Dzul Manzanilla & Herón Huerta",
+                           "Felipe A. Dzul Manzanilla & Herón Huerta",
+                           "Felipe A. Dzul Manzanilla & Herón Huerta",
+                           "Felipe A. Dzul Manzanilla & Herón Huerta")) |>
+    reactable::reactable(defaultPageSize = 6,
+                         theme = reactablefmtr::flatly(),
+                         filterable = FALSE,
+                         striped = TRUE,
+                         minRows = 6,
+                         resizable = TRUE, 
+                         wrap = FALSE, 
+                         bordered = TRUE)
+```
+
+
+
