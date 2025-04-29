@@ -7,10 +7,10 @@ website:
   title: "Vigilancia Entomológica de Oropouche"
   repo-url: https://github.com/fdzul/entomological_surveillance_oropouche-dev
   repo-actions: [edit, issue]
-  favicon: imagenes/logo_course.jpeg
+  favicon: imagenes/logo.jpeg
   twitter-card: true
   navbar:
-    logo: imagenes/logo_course.png
+    logo: imagenes/logo.jpeg
     tools:
       - icon: twitter
         href: https://twitter.com/FdzulM
