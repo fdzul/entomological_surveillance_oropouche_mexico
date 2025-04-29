@@ -5,7 +5,8 @@ title: ""
 
 # **Objetivo General**
 
-El curso títulado **Vigilancia Entomológica de Oropouche en México** tiene como objetivo central desarrollar las competencias específicas para que el personal del componente de vigilancia entomológica de prevención y control de las arbovirosis y el personal de las unidades de bioensayos e investigación entomológica de la Secretaría de Salud de los estados colecten e identifiquen los especímenes de la familia Ceratopogonidae con enfasis en el genero *Culicoides* y en general dípteros nematóceros de importancia médica.
+El curso títulado **Vigilancia Entomológica de Oropouche en México** ofertado en la
+**Reunión de la Red Nacional de Unidades de Investigación Entomológica y de Bioensayos** tiene como objetivo central desarrollar las competencias específicas para que el personal del componente de vigilancia entomológica de prevención y control de las arbovirosis y el personal de las unidades de bioensayos e investigación entomológica de la Secretaría de Salud de los estados colecten e identifiquen los especímenes de la familia Ceratopogonidae con enfasis en el genero *Culicoides* y en general dípteros nematóceros de importancia médica.
 
 # **Objetivos Específicos**
 
